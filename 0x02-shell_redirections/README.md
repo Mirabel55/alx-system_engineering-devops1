@@ -1,1 +1,2 @@
-0-hello_world
+#!/bin/bash
+my first shell redirection project
